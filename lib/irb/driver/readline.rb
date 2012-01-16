@@ -2,6 +2,7 @@ require 'readline'
 require 'irb/driver/tty'
 require 'irb/ext/history'
 require 'irb/ext/completion'
+require 'irb/ext/colorize'
 
 module IRB
   module Driver
